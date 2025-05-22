@@ -61,6 +61,15 @@ order = 1040
 usual_reporters = []
 
 [[sections]]
+emoji = '🧪'
+name = 'gsoc'
+title = 'Dept of Science 🧪'
+order = 1045
+usual_reporters = [
+  '@bh7953:kit.edu',
+]
+
+[[sections]]
 emoji = '👥'
 name = 'p2p'
 title = 'Dept of P2P 👥'
